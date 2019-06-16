@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=courseName\ instructorName\ totalHours\ courseFee
+comment0.target=Certification(java.lang.String,\ java.lang.String,\ float,\ float)
+comment1.params=
+comment1.target=float\ get_courseFee()
+comment10.params=
+comment10.target=void\ display()
+comment2.params=
+comment2.target=java.lang.String\ get_startDate()
+comment3.params=
+comment3.target=java.lang.String\ get_examDate()
+comment4.params=
+comment4.target=java.lang.String\ get_examCenter()
+comment5.params=
+comment5.target=java.lang.String\ get_certificateAwardedBy()
+comment6.params=
+comment6.target=java.lang.String\ get_validTill()
+comment7.params=
+comment7.target=boolean\ get_started()
+comment8.params=newCourseFee
+comment8.target=void\ set_courseFee(int)
+comment9.params=studentName\ startDate\ examDate\ examCenter\ certificateAwardedBy\ validTill
+comment9.target=void\ enrollStudent(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+numComments=11

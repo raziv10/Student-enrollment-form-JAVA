@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=courseName\ instructorName\ totalHours
+comment0.target=Course(java.lang.String,\ java.lang.String,\ float)
+comment1.params=
+comment1.target=java.lang.String\ get_courseName()
+comment2.params=
+comment2.target=java.lang.String\ get_instructorName()
+comment3.params=
+comment3.target=java.lang.String\ get_studentName()
+comment4.params=
+comment4.target=float\ get_totalHours()
+comment5.params=newName
+comment5.target=void\ set_studentName(java.lang.String)
+comment6.params=
+comment6.target=void\ display()
+numComments=7

@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ setComponents()
+comment1.params=
+comment1.target=void\ addProfessional()
+comment2.params=
+comment2.target=void\ addCertification()
+comment3.params=
+comment3.target=void\ enrollStudentProfessional()
+comment4.params=
+comment4.target=void\ enrollStudentCertification()
+comment5.params=
+comment5.target=void\ display()
+comment6.params=
+comment6.target=void\ clear()
+comment7.params=e
+comment7.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment8.params=
+comment8.target=void\ complete()
+comment9.params=args
+comment9.target=void\ main(java.lang.String[])
+numComments=10
